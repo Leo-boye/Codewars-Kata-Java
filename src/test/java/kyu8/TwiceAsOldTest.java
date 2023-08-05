@@ -1,6 +1,6 @@
-package test.java;
+package test.java.kyu8;
 
-import main.java.TwiceAsOld;
+import main.java.kyu8.TwiceAsOld;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

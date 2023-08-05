@@ -1,6 +1,6 @@
-package test.java;
+package test.java.kyu8;
 
-import main.java.GrassHopper;
+import main.java.kyu8.GrassHopper;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
