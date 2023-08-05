@@ -9,7 +9,6 @@ This repository contains my solutions to various Java katas from [Codewars](http
 - [Introduction](#introduction)
 - [Katas List](#katas-list)
 - [Contribution](#contribution)
-- [License](#license)
 
 ## Introduction
 
