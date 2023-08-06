@@ -16,10 +16,10 @@ Codewars offers a vast array of coding challenges called katas. These katas are 
 
 ## Katas List
 
-### kyu 8
+### kyu 6
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
-### kyu 8
+### kyu 7
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
 ### kyu 8
