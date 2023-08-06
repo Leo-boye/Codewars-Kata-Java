@@ -17,8 +17,15 @@ Codewars offers a vast array of coding challenges called katas. These katas are 
 ## Katas List
 
 ### kyu 8
+- [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+
+### kyu 8
+- [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+
+### kyu 8
 - [Grasshopper](https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
 - [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0)
+- [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 
 ## Contribution
 
