@@ -18,6 +18,7 @@ Codewars offers a vast array of coding challenges called katas. These katas are 
 
 ### kyu 6
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a)
 
 ### kyu 7
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
