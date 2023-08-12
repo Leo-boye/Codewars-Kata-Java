@@ -23,6 +23,7 @@ Codewars offers a vast array of coding challenges called katas. These katas are 
 ### kyu 7
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
+- [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 
 ### kyu 8
 - [Grasshopper](https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
