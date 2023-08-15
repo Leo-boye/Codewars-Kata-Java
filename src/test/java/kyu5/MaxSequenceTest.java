@@ -10,4 +10,9 @@ public class MaxSequenceTest {
     public void testEmptyArray() throws Exception {
         assertEquals("Empty arrays should have a max of 0", 0, MaxSequence.sequence(new int[]{}));
     }
+
+    @Test
+    public void testSimpleArray() throws Exception {
+        assertEquals("Empty arrays should have a max of 5", 5, MaxSequence.sequence(new int[]{5}));
+    }
 }
