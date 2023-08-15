@@ -19,17 +19,16 @@ Codewars offers a vast array of coding challenges called katas. These katas are 
 ### kyu 6
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 - [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a)
+- [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
 
 ### kyu 7
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
-- [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 
 ### kyu 8
 - [Grasshopper](https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
 - [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0)
 - [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
-- [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
 
 ## Contribution
 
